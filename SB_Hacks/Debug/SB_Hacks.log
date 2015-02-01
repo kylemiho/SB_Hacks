@@ -1,0 +1,12 @@
+﻿  Scene.cpp
+c:\users\kyle\documents\visualstudiotest\sb_hacks\sb_hacks\scene.cpp(89): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+c:\users\kyle\documents\visualstudiotest\sb_hacks\sb_hacks\scene.cpp(90): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+c:\users\kyle\documents\visualstudiotest\sb_hacks\sb_hacks\scene.cpp(176): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+c:\users\kyle\documents\visualstudiotest\sb_hacks\sb_hacks\scene.cpp(177): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+c:\users\kyle\documents\visualstudiotest\sb_hacks\sb_hacks\scene.cpp(182): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+c:\users\kyle\documents\visualstudiotest\sb_hacks\sb_hacks\scene.cpp(183): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+c:\users\kyle\documents\visualstudiotest\sb_hacks\sb_hacks\scene.cpp(198): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+c:\users\kyle\documents\visualstudiotest\sb_hacks\sb_hacks\scene.cpp(199): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+c:\users\kyle\documents\visualstudiotest\sb_hacks\sb_hacks\scene.cpp(204): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+c:\users\kyle\documents\visualstudiotest\sb_hacks\sb_hacks\scene.cpp(205): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+  SB_Hacks.vcxproj -> C:\Users\Kyle\Documents\visualstudiotest\SB_Hacks\Debug\SB_Hacks.exe
